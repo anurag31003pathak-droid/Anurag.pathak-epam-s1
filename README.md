@@ -1,4 +1,4 @@
-# ReleaseShield AI — Role 7: SARIF Format & Schema Engineer
+# ReleaseShield AI — SARIF Format & Schema Engineer
 
 This repository contains the Role 7 deliverables for Sprint 1:
 - SARIF 2.1.0 schema-validation entry point
